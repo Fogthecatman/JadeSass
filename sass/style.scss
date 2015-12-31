@@ -1,13 +1,33 @@
 #section-head {
     height: 500px;
     background-color: yellow;
+    
+    #section-head-inner {
+        height: 100%;
+        max-width: 960px;
+        background-color: white;
+        margin: 0 auto;
+    }
 }
 
 #section-body {
     height: 800px;
     background-color: blue;
+    
+    #section-body-inner {
+        height: 100%;
+        max-width: 960px;
+        background-color: white;
+        margin: 0 auto;
+    }
 }
 #section-footer {
     height: 150px;
     background-color: grey;
+    #section-footer-inner {
+        height: 100%;
+        max-width: 960px;
+        background-color: white;
+        margin: 0 auto;
+    }
 }

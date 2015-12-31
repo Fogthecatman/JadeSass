@@ -2,15 +2,33 @@
 #section-head {
   height: 500px;
   background-color: yellow; }
+  /* line 5, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
+  #section-head #section-head-inner {
+    height: 100%;
+    max-width: 960px;
+    background-color: white;
+    margin: 0 auto; }
 
-/* line 6, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
+/* line 13, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
 #section-body {
   height: 800px;
   background-color: blue; }
+  /* line 17, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
+  #section-body #section-body-inner {
+    height: 100%;
+    max-width: 960px;
+    background-color: white;
+    margin: 0 auto; }
 
-/* line 10, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
+/* line 24, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
 #section-footer {
   height: 150px;
   background-color: grey; }
+  /* line 27, C:/Users/Jacob/Desktop/JadeSASS/sass/style.scss */
+  #section-footer #section-footer-inner {
+    height: 100%;
+    max-width: 960px;
+    background-color: white;
+    margin: 0 auto; }
 
 /*# sourceMappingURL=style.css.map */
